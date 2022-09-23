@@ -1,5 +1,6 @@
 # 💫 About Me:
 - 15 year old hobby programmer 
+- Owner of @Ferion-IT
 
 
 ## 🌐 Socials:
