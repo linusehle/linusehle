@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 15 year old hobby programmer 
 - Owner of @Ferion-IT
+- Tech Stack is not up to date, but I am to lazy to change it
 
 
 ## 🌐 Socials:
