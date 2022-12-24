@@ -20,3 +20,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Whisper-Snowie&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<h2 align="center">What I do</h2>
+<div align="center">
+ <a href="https://discord.com/users/527147599942385674" target="_blank">
+  <img src="https://lanyard.cnrad.dev/api/527147599942385674?bg=141321">
+ </a>
+</div>
