@@ -17,6 +17,13 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/814807669197111337)](https://discord.com/users/814807669197111337)
 
+<h2 align="center">What I do</h2>
+<div align="center">
+ <a href="https://discord.com/users/814807669197111337" target="_blank">
+  <img src="https://lanyard.cnrad.dev/api/814807669197111337">
+ </a>
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=Whisper-Snowie&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
