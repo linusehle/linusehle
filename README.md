@@ -15,6 +15,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Whisper-Snowie&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Whisper-Snowie&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/814807669197111337)](https://discord.com/users/814807669197111337)
+
 [![](https://visitcount.itsvg.in/api?id=Whisper-Snowie&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
