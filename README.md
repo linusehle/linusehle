@@ -15,9 +15,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Whisper-Snowie&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Whisper-Snowie&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/814807669197111337)](https://discord.com/users/814807669197111337)
 
-<h2 align="center">What I do</h2>
+<h2 align="center">Discord</h2>
 <div align="center">
  <a href="https://discord.com/users/814807669197111337" target="_blank">
   <img src="https://lanyard.cnrad.dev/api/814807669197111337">
