@@ -2,7 +2,6 @@
 - 15 year old hobby programmer 
 - Owner of @Ferbion-IT
 - Always learning new things
-- Tech Stack is not up to date, but I am to lazy to change it
 
 
 ## 🌐 Socials:
