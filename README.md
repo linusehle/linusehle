@@ -9,5 +9,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=Whisper-Snowie&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whisper-snowie&show_icons=true&locale=en" alt="whisper-snowie" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=whisper-snowie&show_icons=true&locale=en" alt="whisper-snowie" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whisper-snowie&" alt="whisper-snowie" /></p>
