@@ -9,5 +9,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=Whisper-Snowie&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=whisper-snowie&show_icons=true&locale=en&theme=darcula&bg_color=00000000&langs_count=6" alt="whisper-snowie" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whisper-snowie&&theme=darcula&bg_color=00000000&langs_count=6" alt="whisper-snowie" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whisper-snowie&show_icons=true&locale=en&theme=darcula&bg_color=00000000&langs_count=6" alt="whisper-snowie" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whisper-snowie&&theme=darcula&bg_color=00000000&langs_count=6" alt="whisper-snowie" /> 
+</p>
+
