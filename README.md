@@ -2,13 +2,13 @@
 <h3 align="center">I´m always learning new things...</h3>
 
 <p align="center" >
-  <img background-color="#0d1117" src="https://github-readme-stats.vercel.app/api?username=whisper-snowie&show_icons=true&locale=en" alt="whisper-snowie" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whisper-snowie&show_icons=true&locale=enh&ide_border=true&theme=darcula" alt="whisper-snowie" />
   
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whisper-snowie&" alt="whisper-snowie" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whisper-snowie&hide_border=true&theme=darcula" alt="whisper-snowie" />
   
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whisper-snowie&show_icons=true&locale=en&layout=compact" alt="whisper-snowie" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whisper-snowie&show_icons=true&locale=en&layout=compact&hide_border=true&theme=darcula" alt="whisper-snowie" />
 </p>
 
 
