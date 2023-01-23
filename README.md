@@ -2,7 +2,7 @@
 <h3 align="center">I´m always learning new things...</h3>
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=whisper-snowie&show_icons=true&locale=en" alt="whisper-snowie" />
+  <img background-color="#0d1117" src="https://github-readme-stats.vercel.app/api?username=whisper-snowie&show_icons=true&locale=en" alt="whisper-snowie" />
   
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whisper-snowie&" alt="whisper-snowie" />
