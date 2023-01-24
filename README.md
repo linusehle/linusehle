@@ -20,7 +20,7 @@
 <a href="#">
   <img align="left" alt="Whisper-Snowie`s Discord" width="20px" src="https://simpleicons.now.sh/discord/fff" />
 </a>
-<a href="#">
+<a href="https://github.com/Whisper-Snowie">
   <img align="left" alt="Whisper-Snowie`s Github" width="20px" src="https://simpleicons.now.sh/github/fff" />
 </a>
 
