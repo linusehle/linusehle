@@ -6,3 +6,23 @@
   <br>
 </p>
 
+----
+
+<a href="#">
+  <img align="left" alt="Whisper-Snowie`s Twitter" width="20px" src="https://simpleicons.now.sh/twitter/fff" />
+</a>
+<a href="#">
+  <img align="left" alt="Whisper-Snowie`s Instagram" width="20px" src="https://simpleicons.now.sh/instagram/fff" />
+</a>
+<a href="#">
+  <img align="left" alt="Whisper-Snowie`s Youtube" width="20px" src="https://simpleicons.now.sh/youtube/fff" />
+</a>
+<a href="#">
+  <img align="left" alt="Whisper-Snowie`s Discord" width="20px" src="https://simpleicons.now.sh/discord/fff" />
+</a>
+<a href="#">
+  <img align="left" alt="Whisper-Snowie`s Github" width="20px" src="https://simpleicons.now.sh/github/fff" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website : [coming soon...](https://coming-soon.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+
