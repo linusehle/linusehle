@@ -8,7 +8,7 @@
 
 ----
 
-<a href="#">
+<a href="https://twitter.com/Whisper_Snowie">
   <img align="left" alt="Whisper-Snowie`s Twitter" width="20px" src="https://simpleicons.now.sh/twitter/fff" />
 </a>
 <a href="#">
