@@ -17,7 +17,7 @@
 <a href="#">
   <img align="left" alt="Whisper-Snowie`s Youtube" width="20px" src="https://simpleicons.now.sh/youtube/fff" />
 </a>
-<a href="#">
+<a href="https://discordapp.com/users/814807669197111337">
   <img align="left" alt="Whisper-Snowie`s Discord" width="20px" src="https://simpleicons.now.sh/discord/fff" />
 </a>
 <a href="https://github.com/Whisper-Snowie">
