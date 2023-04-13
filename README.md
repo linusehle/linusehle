@@ -5,6 +5,9 @@
   <br>
   <br>
 </p>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=rnr994lbwtnc74bxhnqsoli19&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true">
+</p>  
 
 ----
 
