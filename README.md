@@ -12,7 +12,7 @@
   <img align="left" alt="Linus`s Twitter" width="20px" src="https://simpleicons.now.sh/twitter/fff" />
 </a>
 <a href="#">
-  <img align="left" alt="Whisper-Snowie`s Instagram" width="20px" src="https://simpleicons.now.sh/instagram/fff" />
+  <img align="left" alt="Whisper-Snowies Instagram" width="20px" src="https://simpleicons.now.sh/instagram/fff" />
 </a>
 <a href="#">
   <img align="left" alt="Whisper-Snowie`s Youtube" width="20px" src="https://simpleicons.now.sh/youtube/fff" />
