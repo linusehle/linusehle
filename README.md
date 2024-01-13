@@ -15,7 +15,7 @@
   <img align="left" alt="linusehle's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/fff" />
 </a>
 <a href="#">
-  <img align="left" alt="Whisper-Snowie`s Youtube" width="20px" src="https://simpleicons.now.sh/youtube/fff" />
+  <img align="left" alt="linusehle`s Youtube" width="20px" src="https://simpleicons.now.sh/youtube/fff" />
 </a>
 <a href="https://discordapp.com/users/814807669197111337">
   <img align="left" alt="Whisper-Snowie`s Discord" width="20px" src="https://simpleicons.now.sh/discord/fff" />
