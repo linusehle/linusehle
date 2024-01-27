@@ -21,7 +21,7 @@
   <img align="left" alt="linusehle`s Discord" width="20px" src="https://simpleicons.now.sh/discord/fff" />
 </a>
 <a href="#">
-  <img align="left" alt="Whisper-Snowie`s Spotify" width="20px" src="https://simpleicons.now.sh/spotify/fff" />
+  <img align="left" alt="linusehle`s Spotify" width="20px" src="https://simpleicons.now.sh/spotify/fff" />
 </a>
 <a href="https://github.com/Whisper-Snowie">
   <img align="left" alt="Whisper-Snowie`s Github" width="20px" src="https://simpleicons.now.sh/github/fff" />
