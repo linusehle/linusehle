@@ -11,7 +11,7 @@
 <a href="https://twitter.com/ehlelinus">
   <img align="left" alt="Linus`s Twitter" width="20px" src="https://simpleicons.now.sh/twitter/fff" />
 </a>
-<a href="#">
+<a href="https://www.instagram.com/linusehle/">
   <img align="left" alt="linusehle's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/fff" />
 </a>
 <a href="#">
