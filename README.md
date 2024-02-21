@@ -11,6 +11,9 @@
 <a href="https://twitter.com/Whisper_Snowie">
   <img align="left" alt="Linus`s Twitter" width="20px" src="https://simpleicons.now.sh/twitter/fff" />
 </a>
+<a href="https://twitter.com/Whisper_Snowie">
+  <img align="left" alt="Linus`s Twitter" width="20px" src="https://simpleicons.now.sh/linkedin/fff" />
+</a>
 <a href="#">
   <img align="left" alt="linusehle's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/fff" />
 </a>
@@ -22,9 +25,6 @@
 </a>
 <a href="#">
   <img align="left" alt="Whisper-Snowie`s Spotify" width="20px" src="https://simpleicons.now.sh/spotify/fff" />
-</a>
-<a href="https://github.com/Whisper-Snowie">
-  <img align="left" alt="Whisper-Snowie`s Github" width="20px" src="https://simpleicons.now.sh/github/fff" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website : [coming soon...](https://coming-soon.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
