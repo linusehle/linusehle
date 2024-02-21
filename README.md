@@ -8,7 +8,7 @@
 
 ----
 
-<a href="https://twitter.com/Whisper_Snowie">
+<a href="https://twitter.com/ehlelinus">
   <img align="left" alt="Linus`s Twitter" width="20px" src="https://simpleicons.now.sh/twitter/fff" />
 </a>
 <a href="https://twitter.com/Whisper_Snowie">
