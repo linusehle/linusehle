@@ -26,7 +26,6 @@
 <a href="#">
   <img align="left" alt="linusehle`s Spotify" width="20px" src="https://simpleicons.now.sh/spotify/fff" />
 </a>
-<img align="right" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="8%" >
 
 | &nbsp;&nbsp;&nbsp; Website : [coming soon...](https://coming-soon.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 
