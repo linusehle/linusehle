@@ -27,5 +27,5 @@
   <img align="left" alt="linusehle`s Spotify" width="20px" src="https://simpleicons.now.sh/spotify/fff" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [coming soon...](https://coming-soon.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+| &nbsp;&nbsp; [Website](https://coming-soon.com) &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 
